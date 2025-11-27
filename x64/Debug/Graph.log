@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Отсутствует обязательный файл "C:\USERS\Артур\DESKTOP\ЧМ_лаба_1\ZEDGRAPH.DLL".
+  MyForm.cpp
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1081,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1082,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1213,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1214,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1390,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\MyForm.h(1391,50): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graph.vcxproj -> C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.exe

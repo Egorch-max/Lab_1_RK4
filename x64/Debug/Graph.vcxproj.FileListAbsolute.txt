@@ -1,0 +1,19 @@
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\Graph.MyForm.resources
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\Graph.vcxproj.CopyComplete
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\Graph.exe
+C:\Users\Артур\Desktop\Lab1-Numerical-Methods-RK45-main\x64\Debug\ZedGraph.dll
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\Graph.MyForm.resources
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\Graph.vcxproj.CopyComplete
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\Graph.exe
+C:\Users\Артур\Desktop\ЧМ_лаба_1\x64\Debug\ZedGraph.dll
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.MyForm.resources
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.vcxproj.CopyComplete
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\Graph.exe
+C:\Users\egorf\OneDrive\Рабочий стол\Lab_1_RK4\x64\Debug\ZedGraph.dll
